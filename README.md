@@ -1,3 +1,11 @@
+<h1 align="center">Book Recommendation System</h1>
+
+
+<p align="center">
+  
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+<img src="https://img.shields.io/badge/Made%20by-Hemant-blue" >
+</p>
 ## Problem Statement
 
 During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
@@ -48,6 +56,11 @@ The different recommender systems built include:
 - Collaborative filtering using k-nearest neighbors [kNN]
 
 The project demonstrated the potential of these techniques to generate personalized book recommendations for users.
+
+![Alt text](https://github.com/Hemant-1Kumar/Book-Recommender-System/blob/a16a69c58e43127c383ecc5b19c3cc4d867ecccf/Screenshot%20(121).png)
+![Alt text](https://github.com/Hemant-1Kumar/Book-Recommender-System/blob/a16a69c58e43127c383ecc5b19c3cc4d867ecccf/Screenshot%20(122).png)
+![Alt text](https://github.com/Hemant-1Kumar/Book-Recommender-System/blob/a16a69c58e43127c383ecc5b19c3cc4d867ecccf/Screenshot%20(123).png)
+![Alt text](https://github.com/Hemant-1Kumar/Book-Recommender-System/blob/a16a69c58e43127c383ecc5b19c3cc4d867ecccf/Screenshot%20(124).png)
 
 ---
 
